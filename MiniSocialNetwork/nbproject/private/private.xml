@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/ActivateAccountServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/web/login.jsp</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/PostCommentServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/web/search.jsp</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/PostNewArticleServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/filter/AuthFilter.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/LogoutServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/web/myArticle.jsp</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/SearchArticleServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/utils/JavaMailUtils.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/CreateNewAccountServlet.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/article/ArticleDAO.java</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/web/WEB-INF/web.xml</file>
+            <file>file:/D:/FPTU/LAB231/SE140910_PhuongPT/MiniSocialNetwork/src/java/phuongpt/servlets/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
