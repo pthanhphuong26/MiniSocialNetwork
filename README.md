@@ -7,7 +7,7 @@ the articles.
 ## Technogies
 - MVC2 Model
 - Java Jsp, Servlet, Servlet as Main Controller
-- SQL Servlet, JDBC
+- SQL Server, JDBC
 - HTML, CSS, JQuery, Bootstrap
 - Google API 
 
