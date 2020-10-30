@@ -5,10 +5,10 @@ Mini social network has basic functions such as account registration, login, pos
 the articles.
 
 ## Technogies
-- MVC2 Model
-- Java Jsp, Servlet, Servlet as Main Controller
+- MVC 2 Model
+- Java JSP, Servlet, Servlet as Main Controller
 - SQL Server, JDBC
-- HTML, CSS, JQuery, Bootstrap
+- HTML, CSS, jQuery, Bootstrap
 - Google API 
 
 ## Features
